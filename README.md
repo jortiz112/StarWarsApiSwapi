@@ -89,75 +89,23 @@ Interfaz de usuario: Consola interactiva
 
 ## 🔆Resultados del Consultor de Películas Star Wars con SWAPI
 
->> ![img](images/conver1.png)
+>> ![img](images/MainStarWars.png)
 
->> ![img](images/conver2.png)
+>> ![img](images/star1.png)
 
->> ![img](images/conver3.png)
+>> ![img](images/star2.png)
 
->> ![img](images/conver4.png)
+>> ![img](images/star3.png)
 
->> ![img](images/conver5.png)
+>> ![img](images/star4.png)
 
->> ![img](images/conver6.png)
+>> ![img](images/star5.png)
 
->> ![img](images/conver7.png)
+>> ![img](images/star6.png)
 
->> ![img](images/conver8.png)
+>> ![img](images/star7.png)
 
->> ![img](images/conver9.png)
-
->> ![img](images/conver10.png)
-
->> ![img](images/conver11.png)
-
->> ![img](images/conver12.png)
-
->> ![img](images/conver13.png)
-
->> ![img](images/conver14.png)
-
->> ![img](images/conver15.png)
-
->> ![img](images/conver16.png)
-
->> ![img](images/conver17.png)
-
->> ![img](images/conver18.png)
-
->> ![img](images/conver19.png)
-
->> ![img](images/conver20.png)
-
->> ![img](images/conver21.png)
-
->> ![img](images/conver22.png)
-
->> ![img](images/conver23.png)
-
->> ![img](images/conver24.png)
-
->> ![img](images/conver25.png)
-
->> ![img](images/conver26.png)
-
->> ![img](images/conver27.png)
-
->> ![img](images/conver28.png)
-
->> ![img](images/conver29.png)
-
->> ![img](images/conver30.png)
-
->> ![img](images/conver31.png)
-
->> ![img](images/conver32.png)
-
->> ![img](images/conver33.png)
-
->> ![img](images/conver34.png)
-
->> ![img](images/conver35.png)
+>> ![img](images/star8.png)
 
 ## 👩👨Autores del Proyecto
 
@@ -167,4 +115,4 @@ Interfaz de usuario: Consola interactiva
 
 ## 📜Certificado
 
-![img](images/Certificado.png)
+![img](images/certificado.png)
